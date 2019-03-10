@@ -1,1 +1,28 @@
-just a test
+Name: Gurpreet Kaur
+ID  : 1895831
+Task: Assignment Report
+Subject:Commands used in Gitbash
+
+
+
+1)pwd:- Is used to check the current folder.
+2)mkdir <foldername>:- Is used to make a new directory.
+3)cd dir:- Is used to check or change a directory.
+4)git clone:- Is used to link with the git repository with the help of the URL. 
+For Example git clone http://github.com/Dissuade/MAD314-CV-Dissuade.git  
+where git clone is a command and the url is used to link with my repository.
+
+$ git clone "https://github.com/Dissuade/MAD314-CV-Dissuade.git"
+Cloning into 'MAD314-CV-1895831'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+
+5)ls:- Is used to list all the system files.
+6)git add -A:- Is used to add a file in the existing directory.
+7)git status:- Is used to get the current status of the dirctory.
+8)git commit -m "":- Is used to commit the existing directory,it allows to add a messgae also as a statement.
+9)git push:-Is used to push file to the my created repository.
+
+
+
+
